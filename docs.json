@@ -2,7 +2,7 @@
   "name": "Esselstyn Lab",
   "description": "Esselstyn Lab Protocol",
   "sidebar": [
-    ["Welcome", "/EN"],
+    ["Welcome", "/"],
     [
       "Fieldwork",
       [
