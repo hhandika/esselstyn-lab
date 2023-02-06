@@ -1,9 +1,9 @@
 {
-  "name": "Nahpu",
-  "description": "A digital catalog for natural history collections.",
+  "name": "Esselstyn Lab",
+  "description": "Esselstyn Lab Protocol",
   "sidebar": [
     ["Welcome", "/EN"],
-    ["Indonesia Fieldwork", [["Field Equipment", "/field_equipment"]]],
+    ["Fieldwork", [["Field Equipment", "/field_equipment"]]],
     [
       "Laboratory Protocol",
       [
