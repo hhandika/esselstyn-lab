@@ -1,8 +1,15 @@
 {
-  "name": "Esselstyn Lab",
-  "description": "Esselstyn lab protocols",
-  "sidebar": {
-    "en": [["Welcome", "/EN"]],
-    "id": [["Selamat Datang", "/ID"]]
-  }
+  "name": "Nahpu",
+  "description": "A digital catalog for natural history collections.",
+  "sidebar": [
+    ["Welcome", "/EN"],
+    ["Indonesia Fieldwork", [["Field Equipment", "/field_equipment"]]],
+    [
+      "Laboratory Protocol",
+      [
+        ["Tissue Extraction", "/tissue_extraction"],
+        ["Sanger Sequencing", "/sanger_sequencing"]
+      ]
+    ]
+  ]
 }
