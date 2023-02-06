@@ -10,20 +10,22 @@
         ["Indonesia Permits", "/indonesia_permits"]
       ]
     ],
-    ["Specimen Curation", [[""]]],
+    ["Specimen Curation", [["Data Cleaning", "/curation_data_cleaning"]]],
     [
       "Laboratory Protocol",
       [
         ["Tissue Extraction", "/tissue_extraction"],
         ["Sanger Sequencing", "/sanger_sequencing"],
         ["NGS Library Preparation", "/libary_prep"],
-        ["UCE Enrichment", "/uce_enrichment"]
+        ["UCE Enrichment", "/uce_enrichment"],
+        ["Sequencing Submission", "/sequencing_submission"]
       ]
     ],
     [
       "Data Analyses",
       [
         ["Computer Setup", "/computer_setup"],
+        ["Data Management", "/data_management"],
         ["RAW NGS Read Cleaning", "/raw_read_cleaning"],
         ["De Novo Assembly", "/denovo_assembly"],
         ["Alignment Manipulation & Cleaning", "alignment"],
