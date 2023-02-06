@@ -3,12 +3,32 @@
   "description": "Esselstyn Lab Protocol",
   "sidebar": [
     ["Welcome", "/EN"],
-    ["Fieldwork", [["Field Equipment", "/field_equipment"]]],
+    [
+      "Fieldwork",
+      [
+        ["Field Equipment", "/field_equipment"],
+        ["Indonesia Permits", "/indonesia_permits"]
+      ]
+    ],
+    ["Specimen Curation", [[""]]],
     [
       "Laboratory Protocol",
       [
         ["Tissue Extraction", "/tissue_extraction"],
-        ["Sanger Sequencing", "/sanger_sequencing"]
+        ["Sanger Sequencing", "/sanger_sequencing"],
+        ["NGS Library Preparation", "/libary_prep"],
+        ["UCE Enrichment", "/uce_enrichment"]
+      ]
+    ],
+    [
+      "Data Analyses",
+      [
+        ["Computer Setup", "/computer_setup"],
+        ["RAW NGS Read Cleaning", "/raw_read_cleaning"],
+        ["De Novo Assembly", "/denovo_assembly"],
+        ["Alignment Manipulation & Cleaning", "alignment"],
+        ["Phylogenetic Analyses", "/phylo"],
+        ["Geometric Morphometric", "/geomorph"]
       ]
     ]
   ]
