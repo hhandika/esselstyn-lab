@@ -16,7 +16,7 @@
       [
         ["Tissue Extraction", "/tissue_extraction"],
         ["Sanger Sequencing", "/sanger_sequencing"],
-        ["NGS Library Preparation", "/libary_prep"],
+        ["NGS Library Preparation", "/library_prep"],
         ["UCE Enrichment", "/uce_enrichment"],
         ["Sequencing Submission", "/sequencing_submission"]
       ]
